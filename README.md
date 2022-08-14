@@ -2,4 +2,4 @@
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=borisXBP&hide_title=true&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs" /> </div>
 
-<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=borisXBP&theme=xcode" /> </div>
+<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=borisXBP&theme=xcode&hide_title=true" /> </div>
