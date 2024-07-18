@@ -1,8 +1,6 @@
 # 你好！我是 Boris，一个前端开发工程师
 
-[<img src="https://img.shields.io/badge/-个人网站-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](http://xiebipan.cn)
-
-<p align="center">
+<p>
   <a href="http://xiebipan.cn/">
     <img src="https://img.shields.io/badge/🌟%20查看我的个人网站%20🌟-xiebipan.cn-blue?style=for-the-badge" alt="个人网站" />
   </a>
@@ -12,7 +10,7 @@
 
 - 🔭 我目前正在研究 Vue.js 和 React 的最佳实践
 - 🌱 持续学习 TypeScript 和 Node.js、Golang
-🌐 欢迎访问我的个人网站：[xiebipan.cn](http://xiebipan.cn/)
+- 🌐 欢迎访问我的个人网站：[xiebipan.cn](http://xiebipan.cn/)
 
 ## 🛠 技能树
 
@@ -29,7 +27,5 @@
 
 [![boris-mini-vue](https://github-readme-stats.vercel.app/api/pin/?username=borisXBP&repo=boris-mini-vue)](https://github.com/borisXBP/boris-mini-vue)
 
-## 📫 联系我
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:577870940@qq.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/borisXBP)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisXBP)](https://github.com/borisXBP/github-readme-stats)
