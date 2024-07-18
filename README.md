@@ -19,13 +19,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 📊 GitHub 统计
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisXBP&show_icons=true&theme=radical)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=borisXBP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisXBP&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-## 🏆 主要项目
+![grid snake animation](./assets/github-user-contribution.svg)
 
-[![boris-mini-vue](https://github-readme-stats.vercel.app/api/pin/?username=borisXBP&repo=boris-mini-vue)](https://github.com/borisXBP/boris-mini-vue)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisXBP)](https://github.com/borisXBP/github-readme-stats)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
